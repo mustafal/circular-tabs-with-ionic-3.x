@@ -1,0 +1,14 @@
+page-tabsbottom2 {
+    circular-tabs{
+        position: fixed;
+        height: 100px;
+        width: 100px;
+        margin-left: -50px;
+        bottom: -55px;
+  
+        .menu .cn-button {
+          border-radius: 50% 50% 0 0;
+          padding-bottom: 40px;
+        }
+    }
+}
